@@ -15,7 +15,7 @@ Write the needed HTML code
 
 ### step 4:
 Run the django server and excute the HTML files
-# map.html
+### map.html
 ```html
 
 <!DOCTYPE html>
@@ -36,7 +36,7 @@ Run the django server and excute the HTML files
     </body>
 </html>
 ```
-# post office.html
+### post office.html
 ```html
 <!DOCTYPE html>
 <html>
@@ -50,7 +50,7 @@ Run the django server and excute the HTML files
     </body>
 </html>
 ```
-# santhoshkumar shop.html
+### santhoshkumar shop.html
 ```html
 <!DOCTYPE html>
 <html>
@@ -64,7 +64,7 @@ Run the django server and excute the HTML files
     </body>
 </html>
 ```
-# pilliyar kovil.html
+### pilliyar kovil.html
 ```html
 <!DOCTYPE html>
 <html>
@@ -79,7 +79,7 @@ Run the django server and excute the HTML files
 </html>
 
 ```
-# night club.html
+### night club.html
 ```html
 <!DOCTYPE html>
 <html>
@@ -93,7 +93,7 @@ Run the django server and excute the HTML files
     </body>
 </html>
 ```
-# goverment school.html
+### goverment school.html
 ```html
 <!DOCTYPE html>
 <html>
@@ -111,15 +111,17 @@ Run the django server and excute the HTML files
 
 
 ## Output:
+![map](https://github.com/Harishraja6211/places-around-me/assets/154001429/44c3fca6-7c15-4c72-8fd0-c9ab63379ee5)
 
+![WhatsApp Image 2023-12-31 at 02 08 16_7211d36c](https://github.com/Harishraja6211/places-around-me/assets/154001429/faa9e72e-00e2-4604-8e50-02243d8bf1d8)
 
+![WhatsApp Image 2023-12-31 at 02 08 16_33d5ab4d](https://github.com/Harishraja6211/places-around-me/assets/154001429/74a6dc64-0e3b-472d-921a-29ee5a0296ac)
 
+![WhatsApp Image 2023-12-31 at 02 08 15_40e5e753](https://github.com/Harishraja6211/places-around-me/assets/154001429/38d5cbeb-bb8b-41a5-83fd-a0c7963cdd85)
 
-![](./Screenshot%20from%202023-12-30%2019-40-03.png)
-![](./Screenshot%20from%202023-12-30%2019-46-01.png)
-![](./Screenshot%20from%202023-12-30%2019-44-08.png)
+![WhatsApp Image 2023-12-31 at 02 08 15_170c5017](https://github.com/Harishraja6211/places-around-me/assets/154001429/d275df27-2591-410d-91b5-34ff2e5cdc43)
 
-![](./Screenshot%20from%202023-12-30%2019-41-57.png)
-![](./Screenshot%20from%202023-12-30%2019-41-08.png)
+![WhatsApp Image 2023-12-31 at 02 08 14_9fae7d08](https://github.com/Harishraja6211/places-around-me/assets/154001429/28eba6b6-72fa-45bc-a2f7-e3468cbf3ac6)
+
 ## Result:
 result execute successfullay
